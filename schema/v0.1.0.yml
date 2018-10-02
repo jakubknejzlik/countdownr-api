@@ -1,0 +1,4 @@
+Deadline:
+  columns:
+    name: string
+    date: date
